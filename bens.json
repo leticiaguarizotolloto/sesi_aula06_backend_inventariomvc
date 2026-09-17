@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "item":"Armário de duas portas",
+        "local":"Sala de aula 09",
+        "data":"2026-09-17",
+        "valor":600,
+       "patrimonio":"PT000"
+    },
+        {
+        "id":2,
+        "item":"Notebook DELL",
+        "local":"Sala de aula 09",
+        "data":"2026-09-17",
+        "valor":7000,
+       "patrimonio":"PT123"
+    },
+        {
+        "id":3,
+        "item":"Cadeira ergonomica",
+        "local":"Sala de aula 09",
+        "data":"2026-09-17",
+        "valor":500,
+       "patrimonio":"PT456"
+    }
+]
